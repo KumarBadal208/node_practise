@@ -20,4 +20,7 @@ app.use('/',(req,res)=>{
 
 app.listen(3000, ()=>{
     console.log("server is running on 3000");
-})```
+})
+```
+
+####  next() -> this function calls next next route
