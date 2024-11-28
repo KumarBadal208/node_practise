@@ -1,0 +1,19 @@
+{
+  "name": "node_practise",
+  "version": "1.0.0",
+  "description": "just for practise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "kumar badal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
